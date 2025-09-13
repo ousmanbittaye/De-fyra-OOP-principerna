@@ -1,1 +1,0 @@
-# De fyra OOP-principerna
